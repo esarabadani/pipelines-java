@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/essaraba/Roham/_apis/build/status/esarabadani.pipelines-java?branchName=main)](https://dev.azure.com/essaraba/Roham/_build/latest?definitionId=1&branchName=main)
+
 
 # Contributing
 
